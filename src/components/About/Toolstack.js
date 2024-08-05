@@ -2,9 +2,7 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
-  SiPostman,
-  SiSlack,
-  SiVercel,
+ 
   SiWindows11,
 } from "react-icons/si";
 
