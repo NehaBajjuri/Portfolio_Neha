@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from "../../Assets/freepik-export-2024071717044191dv.png";
 import Particle from "../Particle";
 import Home2 from "./Home2";
-import Type from "./Type";
+
 
 function Home() {
   return (
@@ -26,7 +26,7 @@ function Home() {
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
-                <Type />
+                {/* <Type /> */}
               </div>
             </Col>
 
