@@ -17,6 +17,11 @@ function AboutCard() {
             Mesra.
             <br /> */}
             <br />
+           I'm a passionate and driven technology enthusiast with a strong foundation in programming and software development. 
+            <br/>
+            I hold expertise in languages such as C++, Java, and GO and have hands-on experience with modern tools and technologies including Docker, Jenkins, and Argo Workflow templates. 
+          
+
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
